@@ -3,7 +3,7 @@
 BUILD_TAG="1.0"
 REGISTRY_URL="registry-internal.cn-hangzhou.aliyuncs.com"
 NAME_SPACE="yangguoliang"
-APP_NAME="medical-api"
+APP_NAME="docker-boot-test"
 
 if [ "$2" != "" ];
     then
